@@ -1,5 +1,5 @@
 # Slapper
-Support for entities new in 1.17
+Support for entities new in 1.17<br>
 <a href="https://discord.gg/n4hANRh"><img src="https://discordapp.com/api/guilds/412491783486832640/embed.png" alt="Discord server"/></a>
 
 The new home of Slapper, the NPC plugin for PocketMine-MP.
